@@ -2,6 +2,8 @@
 
 It is an official page of audio software "T-Rax" (reads like **"Trakh"**, author's comments)
 
+![Logo of T-Rax](favicon512.png)
+
 ## Some functions
 
 What can this app
