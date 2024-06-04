@@ -21,6 +21,11 @@
 			color: #9C27B0;
 		}
 
+		article
+		{
+			overflow-y: scroll;
+		}
+
 		body
 		{
 			background: #EEEEEE;
@@ -31,33 +36,21 @@
 		div
 		{
 			background: #FFFFFF;
+			border-radius: 12px;
 			height: 640px;
 			margin: calc(25% - 320px) auto;
 			overflow-x: hidden;
-			overflow-y: scroll;
-			padding: 12px;
 			width: 480px;
 		}
 
-		h2
+		h2, p, ul li
 		{
-			padding: 12px 0 0 0;
+			padding: 12px;
 		}
 
 		img
 		{
 			width: 100%;
-		}
-
-		p
-		{
-			padding: 0 0 12px 0;
-		}
-		
-		ul li
-		{
-			list-style: none;
-			padding: 0 0 24px 0;
 		}
 	</style>
 	<title>T-Rax - Audio player and simple mixer</title>
@@ -65,24 +58,26 @@
 <body>
 	<div>
 		<h1>T-Rax - Audio player and simple mixer</h1>
-		<p>It is an official page of audio software "T-Rax" (reads like <i>"Trakh"</i>, author's comments)</p>
-		<img alt="Logo of T-Rax" src="favicon512.png"/>
-		<h2>Some functions</h2>
-		<p>What can this app</p>
-		<ul>
-			<li>+ Control playing</li>
-			<li>+ Save and open projects</li>
-			<li>+ Add audio tracks (<b><i>ONLY WAV FORMAT!!!</i></b>)</li>
-			<li>+ Remove tracks from playlist (a. k. a. mixer)</li>
-			<li>+ Change track's volume</li>
-		</ul>
-		<h2>Change log</h2>
-		<ul>
-			<li><a href="v0.0.0.1/index.html">v0.0.0.1 (v0.0-alpha)</a> - Added GUI in this release</li>
-			<li><a href="v0.0.0.0/index.html">v0.0.0.0 (v0.0-pre_alpha)](https://thulenorge.github.io/T-RAX/)</a> - Test</li>
-		</ul>
-		<h2>In progress...</h2>
-		<p>Coming soon...</p>
+		<article>
+			<p>It is an official page of audio software "T-Rax" (reads like <i>"Trakh"</i>, author's comments)</p>
+			<img alt="Logo of T-Rax" src="favicon512.png"/>
+			<h2>Some functions</h2>
+			<p>What can this app</p>
+			<ul>
+				<li>+ Control playing</li>
+				<li>+ Save and open projects</li>
+				<li>+ Add audio tracks (<b><i>ONLY WAV FORMAT!!!</i></b>)</li>
+				<li>+ Remove tracks from playlist (a. k. a. mixer)</li>
+				<li>+ Change track's volume</li>
+			</ul>
+			<h2>Change log</h2>
+			<ul>
+				<li><a href="v0.0.0.1/index.html">v0.0.0.1 (v0.0-alpha)</a> - Added GUI in this release</li>
+				<li><a href="v0.0.0.0/index.html">v0.0.0.0 (v0.0-pre_alpha)](https://thulenorge.github.io/T-RAX/)</a> - Test</li>
+			</ul>
+			<h2>In progress...</h2>
+			<p>Coming soon...</p>
+		</article>
 	</div>
 </body>
 </html>
