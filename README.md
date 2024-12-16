@@ -16,4 +16,4 @@ My name is Thule Norge. I'm a coder, musician etc. Also, I like to shake the air
 * [My Telegram Channel](https://t.me/belyko)
 * [My YouTube Channel](https://youtube.com/@ThuleNorge)
 
-<img src="donate.png" height="100" width="300"/>
+<a href="https://www.donationalerts.com/r/thulenorge"><img src="donate.png" height="100" width="300"/></a>
