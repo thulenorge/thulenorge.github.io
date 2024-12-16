@@ -13,5 +13,5 @@ My name is Thule Norge. I'm a coder, musician etc. Also, I like to shake the air
 
 ## Contacts
 
-[https://t.me/belyko](My Telegram Channel)
-[https://youtube.com/@ThuleNorge](My YouTube Channel)
+[My Telegram Channel](https://t.me/belyko)
+[My YouTube Channel](https://youtube.com/@ThuleNorge)
