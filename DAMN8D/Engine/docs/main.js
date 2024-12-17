@@ -3,7 +3,7 @@ async function loadText(url) {
 	return await response.text();
 }
 
-function markdown(data) {
+async function markdown(data) {
 	return data;
 }
 
