@@ -4,4 +4,4 @@
   Implemented: Text field fo code, button for compiling shader and canvas for rendering\
   Features:
   * Compiling shader
-  * Using time metrics and renderer resolution
+  * Using time label and renderer resolution
