@@ -20,7 +20,7 @@ function markdown(data) {
 }
 
 (function main() {
-	document.querySelector("selector").onchange = function (e) {
+	document.querySelector("select").onchange = function (e) {
 		load(e.options[e.selectedIndex].value);
 	};
 })();
