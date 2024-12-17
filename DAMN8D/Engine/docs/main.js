@@ -2,7 +2,7 @@ function load(url) {
 	fetch(url).then(function (response) {
 		return response.text();
 	}).then(function (data) {
-		document.body.innerHTML = data;
+		document.querySelector("#Markdown").innerHTML = data;
 	}).catch(function (error) {
 		documnt.querySelector("#Markdown").innerText = "Page not found!";
 	});
