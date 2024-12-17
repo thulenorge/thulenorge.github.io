@@ -19,4 +19,5 @@ function markdown(data) {
 
 (function main() {
 	document.body.innerHTML = markdown(loadText("v0.0.0.0_a.md"));
+	alert(1);
 })();
