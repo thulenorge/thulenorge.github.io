@@ -4,6 +4,8 @@ async function loadText(url) {
 }
 
 async function markdown(data) {
+	md = md.replace(/[#]{1}(.+)/g, "<h1>$1</h1>");
+
 	return data;
 }
 
