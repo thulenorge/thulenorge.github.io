@@ -12,7 +12,7 @@ async function loadText(url) {
 }
 
 function markdown(data) {
-	md = md.replace(/[#]{1}(.+)/g, "<h1>$1</h1>");
+	data = data.replace(/[#]{1}(.+)/g, "<h1>$1</h1>");
 
 	return data;
 }
