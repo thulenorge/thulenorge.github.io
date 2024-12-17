@@ -8,7 +8,7 @@ async function loadText(url) {
 
 	xhr.send();
 
-	return xhr;
+	return data;
 }
 
 function markdown(data) {
