@@ -8,5 +8,5 @@ function markdown(data) {
 }
 
 (async function main() {
-	document.body = markdown(loadText("v0.0.0.0_a.md"));
+	document.body.innerHTML = markdown(loadText("v0.0.0.0_a.md"));
 })();
