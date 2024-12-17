@@ -21,6 +21,6 @@ function markdown(data) {
 
 (function main() {
 	document.querySelector("selector").onchange = function (e) {
-		load(e.options[e.selectedIndex].text);
+		load(e.options[e.selectedIndex].value);
 	});
 })();
