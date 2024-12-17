@@ -9,5 +9,5 @@ DAMN8D is my 3D game Engine, which i've been working on for five years
 * [v0.0.0.0_beta](Engine/v0.0.0.0_b/index.html)
 
 ## Help
-* [Change log](CHANGELOG.html)
+* [Change log](Engine/CHANGELOG.html)
 * [Docs](Engine/docs/LIST.html)
