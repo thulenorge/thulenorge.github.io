@@ -1,5 +1,7 @@
 # Change log
 
+* v0.0.0.0_b2 - Micro update, Added some features\
+  Added: Wheel input via Z-component of `u_MouseMove`. `u_MouseMove` is `vec3` now
 * v0.0.0.0_b1 - Micro update, Added some features\
   Added: Mouse input via `u_MouseKeys`. Now you can do something operations like move, rotate etc.
 * v0.0.0.0_b - Micro update, Added some features\
