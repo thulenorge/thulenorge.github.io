@@ -2,7 +2,7 @@
 
 ## Summary
 
-It is a first version of Engine with some own micro updates
+It is a first revision of first version of Engine with some own micro updates
 
 Features of this version:
 
