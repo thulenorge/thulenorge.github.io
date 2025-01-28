@@ -1,6 +1,8 @@
 # Change log
 
 ## v0.0.0.1
+* v0.0.0.1_a1 - Micro update, Fixed some bugs\
+  Fixed: Get Uniform Location Error
 * v0.0.0.1_a - Version update, Fixed some bugs\
   Fixed: Attach Shader Error
 
