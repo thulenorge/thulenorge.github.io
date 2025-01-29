@@ -15,6 +15,7 @@ Fixes:
 
 * Attach Shader error (v0.0.0.1_a)
 * Get Uniform Location error (v0.0.0.1_a1)
+* Clear console after shader compiling (v0.0.0.1_a2)
 
 ## Releases
 
