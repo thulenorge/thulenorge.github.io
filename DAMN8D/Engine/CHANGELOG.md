@@ -1,6 +1,10 @@
 # Change log
 
 ## v0.0.0.1
+* v0.0.0.1_b - Micro update, Added new features\
+  Added: Simple Keyboard Input. Now you can use all 10 fingers for control some processes!
+  Added: Special variables `u_KeyN` where `N` - is Number of key from 0 to 9: `u_Key0`, `u_Key1`, ... `u_Key7`, etc.\
+  `u_KeyN` as `int`. For more information check [DOCS](docs/v0.0.0.1/v0.0.0.1_b.html)
 * v0.0.0.1_a1 - Micro update, Fixed some bugs\
   Fixed: Get Uniform Location Error
 * v0.0.0.1_a - Version update, Fixed some bugs\
