@@ -9,13 +9,17 @@ Features of this version:
 * Shader editor and compiling
 * Realtime Preview
 * Mouse control, screen resolution and time change
+* Keyboard input (v0.0.0.1_b)
 
 Fixes:
 
 * Attach Shader error (v0.0.0.1_a)
+* Get Uniform Location error (v0.0.0.1_a1)
 
 ## Releases
 
 List of all versions (alphabetical):
 
 * [v0.0.0.1_alpha](v0.0.0.1_a/index.html)
+* [v0.0.0.1_alpha1](v0.0.0.1_a1/index.html)
+* [v0.0.0.1_beta](v0.0.0.1_b/index.html)
