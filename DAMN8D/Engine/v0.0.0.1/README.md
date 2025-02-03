@@ -16,6 +16,7 @@ Fixes:
 * Attach Shader error (v0.0.0.1_a)
 * Get Uniform Location error (v0.0.0.1_a1)
 * Clear console after shader compiling (v0.0.0.1_a2)
+* Keyboard input stores in an Array (v0.0.0.1_b1)
 
 ## Releases
 
@@ -23,4 +24,6 @@ List of all versions (alphabetical):
 
 * [v0.0.0.1_alpha](v0.0.0.1_a/index.html)
 * [v0.0.0.1_alpha1](v0.0.0.1_a1/index.html)
+* [v0.0.0.1_alpha2](v0.0.0.1_a2/index.html)
 * [v0.0.0.1_beta](v0.0.0.1_b/index.html)
+* [v0.0.0.1_beta1](v0.0.0.1_b1/index.html)
