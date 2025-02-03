@@ -2,7 +2,7 @@
 
 ## v0.0.0.1
 * v0.0.0.1_b1 - Micro update, Changed some functions\
-  Changed: `u_Keys[n]` instead of `u_KeyN`;
+  Changed: `u_Keys[n]` instead of `u_KeyN`. Now keyboard input stores in Int Array `u_Keys` with length 10
 * v0.0.0.1_b - Micro update, Added new features\
   Added: Simple Keyboard Input. Now you can use all 10 fingers for control some processes!
   Added: Special variables `u_KeyN` where `N` - is Number of key from 0 to 9: `u_Key0`, `u_Key1`, ... `u_Key7`, etc.\
