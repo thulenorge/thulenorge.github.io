@@ -1,6 +1,9 @@
 # Change log
 
 ## v0.0.0.1
+* v0.0.0.1_b2 - Micro update, Added some features\
+  Added: AWSD control. Now you can control your shader\
+  `u_AWSD` as `vec2`
 * v0.0.0.1_b1 - Micro update, Changed some functions\
   Changed: `u_Keys[n]` instead of `u_KeyN`. Now keyboard input stores in Int Array `u_Keys` with length 10
 * v0.0.0.1_b - Micro update, Added new features\
