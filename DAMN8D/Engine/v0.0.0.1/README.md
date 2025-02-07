@@ -10,6 +10,7 @@ Features of this version:
 * Realtime Preview
 * Mouse control, screen resolution and time change
 * Keyboard input (v0.0.0.1_b)
+* AWSD Controls (v0.0.0.1_b2)
 
 Fixes:
 
@@ -27,3 +28,4 @@ List of all versions (alphabetical):
 * [v0.0.0.1_alpha2](v0.0.0.1_a2/index.html)
 * [v0.0.0.1_beta](v0.0.0.1_b/index.html)
 * [v0.0.0.1_beta1](v0.0.0.1_b1/index.html)
+* [v0.0.0.1_beta2](v0.0.0.1_b2/index.html)
