@@ -1,6 +1,8 @@
 # Change log
 
 ## v0.0.0.1
+* v0.0.0.1_b3 - Micro update, Added some features\
+  Added: LCR control. Now you can mouving objects by mouse keys counter. [See more](https://youtu.be/WAGf7dFbBLc)
 * v0.0.0.1_b2 - Micro update, Added some features\
   Added: AWSD control. Now you can control your shader\
   `u_AWSD` as `vec2`
