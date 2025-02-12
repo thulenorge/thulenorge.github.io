@@ -1,6 +1,8 @@
 # Change log
 
 ## v0.0.0.1
+* v0.0.0.1_b4 - Micro update, Added some features\
+  Added: Sky box. Now you can use sky texture for yor experiments or create wonderful landscapes!
 * v0.0.0.1_b3 - Micro update, Added some features\
   Added: LCR control. Now you can mouving objects by mouse keys counter. [See more](https://youtu.be/WAGf7dFbBLc)
 * v0.0.0.1_b2 - Micro update, Added some features\
