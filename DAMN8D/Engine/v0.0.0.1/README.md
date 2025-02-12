@@ -12,6 +12,7 @@ Features of this version:
 * Keyboard input (v0.0.0.1_b)
 * AWSD Controls (v0.0.0.1_b2)
 * Mouse keys counter (v0.0.0.1_b3)
+* Sky box (v0.0.0.1_b4)
 
 Fixes:
 
@@ -31,3 +32,4 @@ List of all versions (alphabetical):
 * [v0.0.0.1_beta1](v0.0.0.1_b1/index.html)
 * [v0.0.0.1_beta2](v0.0.0.1_b2/index.html)
 * [v0.0.0.1_beta3](v0.0.0.1_b3/index.html)
+* [v0.0.0.1_beta4](v0.0.0.1_b4/index.html)
