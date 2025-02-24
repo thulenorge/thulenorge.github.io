@@ -1,6 +1,11 @@
 # Change log
 
 ## v0.0.0.1
+* v0.0.0.1_b5 - Micro update, Added some features and assets\
+  Added: New original textures by [Thule Norge](https://t.me/belyko)\
+  Also was added new variable `u_AspectRatio`. Now you can transform your coordinates more comfortable.\
+  Removed: Autoredraw. __ONLY COMPILING__
+  All resources responsed [here](docs/v0.0.0.1/v0.0.0.1_b)
 * v0.0.0.1_b4 - Micro update, Added some features\
   Added: Sky box. Now you can use sky texture for yor experiments or create wonderful landscapes!
 * v0.0.0.1_b3 - Micro update, Added some features\
