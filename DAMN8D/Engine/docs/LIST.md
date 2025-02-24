@@ -2,10 +2,11 @@
 Full Documentation list. Sorted by versions
 
 ## Recent
-* [v0.0.0.1_beta4](v0.0.0.1/v0.0.0.1_b4.md)
+* [v0.0.0.1_beta5](v0.0.0.1/v0.0.0.1_b5.md)
 
 ## All
 ### v0.0.0.1
+* [v0.0.0.1_beta5](v0.0.0.1/v0.0.0.1_b5.md)
 * [v0.0.0.1_beta4](v0.0.0.1/v0.0.0.1_b4.md)
 * [v0.0.0.1_beta3](v0.0.0.1/v0.0.0.1_b3.md)
 * [v0.0.0.1_beta2](v0.0.0.1/v0.0.0.1_b2.md)
