@@ -13,7 +13,7 @@ Features of this version:
 * AWSD Controls (v0.0.0.1_b2)
 * Mouse keys counter (v0.0.0.1_b3)
 * Sky box (v0.0.0.1_b4)
-* Aspect Ratio and simple Texture pack (v0.0.0.1_b5)
+* Simple Texture pack (v0.0.0.1_b5)
 
 Fixes:
 
