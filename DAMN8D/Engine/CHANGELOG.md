@@ -1,5 +1,10 @@
 # Change log
 
+## v0.0.0.2
+* v0.0.0.2_a - Version update, Added some features and fixed some bugs\
+  Added: Console output for fixing errors in code or logs\
+  Fixed: text warp in Editor
+
 ## v0.0.0.1
 * v0.0.0.1_b5 - Micro update, Added some features and assets\
   Added: New original textures by [Thule Norge](https://t.me/belyko)\
