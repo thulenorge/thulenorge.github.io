@@ -2,7 +2,7 @@
 
 ## Summary
 
-It is a third revision of the first version of DAMN8D.
+It is a third revision of the first version of DAMN8D. New interface elements have been added in this revision.
 
 Features of this version:
 
